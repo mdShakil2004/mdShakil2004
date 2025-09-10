@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full Stack Developer | 3rd Year CSE @ VGU Jaipur | ML & AI Enthusiast  <br>🌐 Passionate about building scalable web apps, and real-time systems  <br>🎯 Problem Solver | Open Source Contributor | Coding Competition Finalist  <br>📫 Reach Me: [Email](mailto:iam.shakil.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mdshakil2004/) | [GitHub](https://github.com/mdShakil2004)<br>
+🚀 Full Stack Developer | 4rd Year CSE @ VGU Jaipur | ML & AI Enthusiast  <br>🌐 Passionate about building scalable web apps, and real-time systems  <br>🎯 Problem Solver | Open Source Contributor | Coding Competition Finalist  <br>📫 Reach Me: [Email](mailto:iam.shakil.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mdshakil2004/) | [GitHub](https://github.com/mdShakil2004)<br>
 
 
 ## 🌐 Socials:
