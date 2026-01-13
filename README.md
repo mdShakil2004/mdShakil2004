@@ -1,6 +1,19 @@
-# 💫 About Me:
-🚀 Full Stack Developer | 4rd Year CSE @ VGU Jaipur | ML & AI Enthusiast  <br>🌐 Passionate about building scalable web apps, and real-time systems  <br>🎯 Problem Solver | Open Source Contributor | Coding Competition Finalist  <br>📫 Reach Me: [Email](mailto:iam.shakil.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mdshakil2004/) | [GitHub](https://github.com/mdShakil2004)<br>
+## 💫 About Me
 
+🚀 **Full-Stack Developer | DevOps & AI/ML Enthusiast**  
+🎓 **4th Year CSE @ VGU Jaipur**
+
+I build **scalable web applications**, **real-time systems**, and **cloud-native solutions** with a strong focus on performance and clean architecture.  
+Passionate about **AI/ML**, **system design**, and **distributed systems**.
+
+- ⚙️ Working with **Docker, Kubernetes, AWS**
+- 🧠 Exploring **AI/ML & LLM-based applications**
+- 🏆 Problem Solver | Open Source Contributor | Coding Competition Finalist
+
+📫 **Connect with me:**  
+[Email](mailto:iam.shakil.dev@gmail.com) •  
+[LinkedIn](https://www.linkedin.com/in/mdshakil2004/) •  
+[GitHub](https://github.com/mdShakil2004)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshakil2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iam.shakil.dev@gmail.com) 
