@@ -1,128 +1,168 @@
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4200&pause=700&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Md+Shakil;Full-Stack+Developer+%26+DevOps+Enthusiast;Building+scalable+apps+with+AI+%26+cloud;Always+learning+new+things+🚀" 
-    alt="Typing SVG Headline" 
-    height="180"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=4500&pause=700&color=79C0FF&center=true&vCenter=true&width=540&lines=Hi+there!+I'm+Md+Shakil;Full-Stack+%26+DevOps+Engineer;Building+AI+%2F+ML+%26+LLM+Apps;Generative+Ai" alt="Typing SVG" />
 </div>
 
-<br>
-
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mdShakil2004&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-frame=true&title_color=00ff9d&text_color=9f9faf&icon_color=00ff9d&bg_color=0d1117" 
-    alt="GitHub Profile Trophies"
-  />
-</div>
-
-<br>
-<!-- Then keep trophies or remove -->
-
-<br/>
-
-## 👨‍💻 About Me
-
-- 🎓 4th Year CSE @ VGU Jaipur  
-- 🚀 Full-Stack Developer | DevOps | AI/ML Enthusiast  
-- 🛠 Building **scalable**, **performant** and **cloud-native** applications  
-- 🔭 Currently exploring **LLMs**, **generative AI**, **distributed systems**  
-- 🏆 Competitive programmer | Open-source contributor  
-
-<br/>
-
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="mailto:iam.shakil.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mdshakil2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/mdShakil2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <br>
+  <a href="https://md-shakil-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/👀+Explore+My+Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://md-shakil-portfolio.vercel.app/projects" target="_blank">
+    <img src="https://img.shields.io/badge/Featured+Projects-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" height="42"/>
   </a>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdShakil2004&label=Profile+views&color=00ff9d&style=flat-square&labelColor=111" alt="profile views" />
+  <br>
+
+  <i>Engineering Multimodal AI • Real-Time Systems • LLM-Based Applications<br>
+  Featured Work: Reva AI, LLM Project Store, LYVON E-Commerce + more</i>
 </div>
 
-<br/>
+<br>
 
-## 🛠️ Tech Stack
 
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
 
-### Frontend & Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
-</p>
+## 💫 About Me
 
-### Backend & APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</p>
+🚀 **AI Engineer × Full-Stack Architect × System Designer**  
+🎓 **4th Year CSE (AI/ML Specialization) @ VGU Jaipur**
 
-### Databases & Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
-</p>
+I design and build **scalable, intelligent systems** — focusing on **multimodal AI**, **real-time inference**, **LLM-powered applications**, and **cloud-native architecture**.
 
-### DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+Passionate about turning complex problems into production-grade, high-performance solutions.
 
-### AI / ML
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-</p>
+- ⚙️ Daily tools: **Docker | Kubernetes | AWS | FastAPI | PyTorch | LangChain**  
+- 🧠 Deep focus: **RAG | Multimodal models | AI Agents | Real-time streaming**  
+- 🏆 **500+ DSA problems** • **Top 3 Hackathon Finisher** • **JPMC Software Engineering Virtual Experience**
 
-<br/>
+📫 **Open to**: Full-time SDE roles • Freelance • AI/ML collaborations • Consultations
+
+<br>
+
+
+## 🌐 Socials & Reach
+
+<div align="center">
+
+<a href="mailto:iam.shakil.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/mdshakil2004/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/mdShakil2004">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://md-shakil-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+
+</div>
+
+<br>
+## 💻 Tech Constellation
+
+<div align="center">
+
+<h4>Core Languages</h4>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<h4>Frontend & Mobile</h4>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<br>
+
+<h4>Backend & APIs</h4>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=openapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white"/>
+
+<br><br>
+
+<h4>Databases & Cloud / Messaging</h4>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+
+<br><br>
+
+<h4>DevOps & Infrastructure</h4>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF2B2D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<br><br>
+
+<h4>CI/CD Pipelines</h4>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF2B2D?style=for-the-badge&logo=argo&logoColor=white"/>
+
+<br><br>
+
+<h4>AI / ML / GenAI</h4>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-34C759?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLIP-FF1493?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3D2E?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<br><br>
+
+<h4>Tools & Systems</h4>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white"/>
+
+
+
+</div>
+
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdShakil2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdShakil2004&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdShakil2004&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%"/>
 </div>
 
-<br/>
+
+
+<br>
+
+---
 
 <div align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdShakil2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mdShakil2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repos" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <i>Building things that matter • Learning every day • Open to collaborate 🚀</i>
+  <i>Always learning, building, and shipping 🚀</i><br><br>
+  <!-- Proudly enhanced for better readability and modern look -->
 </div>
