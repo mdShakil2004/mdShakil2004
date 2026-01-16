@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/👀+Explore+My+Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="42"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://md-shakil-portfolio.vercel.app/projects" target="_blank">
+  <a href="https://md-shakil-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Featured+Projects-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" height="42"/>
   </a>
 </div>
