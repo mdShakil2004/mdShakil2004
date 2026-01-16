@@ -27,7 +27,7 @@
 ## 💫 About Me
 
 🚀 **AI Engineer × Full-Stack Architect × System Designer**  
-🎓 **4th Year CSE (AI/ML Specialization) @ VGU Jaipur**
+🎓 **4th Year(2022-26) B-tech-CSE (AI/ML Specialization) @ VGU Jaipur**
 
 I design and build **scalable, intelligent systems** — focusing on **multimodal AI**, **real-time inference**, **LLM-powered applications**, and **cloud-native architecture**.
 
