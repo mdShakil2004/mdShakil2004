@@ -17,7 +17,7 @@
   <br>
 
   <i>Engineering Multimodal AI • Real-Time Systems • LLM-Based Applications<br>
-  Featured Work: Reva AI, LLM Project Store, LYVON E-Commerce + more</i>
+  Featured Work: Reva AI, LLM Project Store, Zyra Ai News + more</i>
 </div>
 
 <br>
