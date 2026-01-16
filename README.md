@@ -26,7 +26,7 @@
 
 ## 💫 About Me
 
-🚀 **AI Engineer × Full-Stack Architect × System Designer**  
+🚀 **AI Engineer × Full-Stack Architect × AI System Designer**  
 🎓**B.Tech CSE (AI/ML Specialization)**  4th Year (2022–2026) @ [VGU, Jaipur](https://www.vgu.ac.in/) • NAAC A+ • UGC Approved
 
 I design and build **scalable, intelligent systems** — focusing on **multimodal AI**, **real-time inference**, **LLM-powered applications**, and **cloud-native architecture**.
@@ -111,7 +111,7 @@ Passionate about turning complex problems into production-grade, high-performanc
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
 
-<br><br>
+<br>
 
 <h4>CI/CD Pipelines</h4>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
