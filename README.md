@@ -35,13 +35,10 @@ Passionate about turning complex problems into production-grade, high-performanc
 
 - ⚙️ Daily tools: **Docker | Kubernetes | AWS | FastAPI | PyTorch | LangChain**  
 - 🧠 Deep focus: **RAG | Multimodal models | AI Agents | Real-time streaming**  
-- 🏆 **500+ DSA problems** • **Top 3 Hackathon Finisher** • **JPMC Software Engineering Virtual Experience**
+- 🏆 **500+ DSA problems** •[GFG](https://www.geeksforgeeks.org/profile/shakilbhj47v?tab=activity) + [HackerRank](https://www.hackerrank.com/profile/mdshakil02042003?from=md_shakil_Resume)
 
 📫 **Open to**: Full-time SDE roles • Freelance • AI/ML collaborations • Consultations
-
 <br>
-
-
 ## 🌐 Socials & Reach
 
 <div align="center">
@@ -59,7 +56,6 @@ Passionate about turning complex problems into production-grade, high-performanc
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-
 </div>
 
 <br>
@@ -74,34 +70,26 @@ Passionate about turning complex problems into production-grade, high-performanc
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <br><br>
-
 <h4>Frontend & Mobile</h4>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
 <br>
-
 <h4>Backend & APIs</h4>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=openapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white"/>
-
 <br><br>
-
 <h4>Databases & Cloud / Messaging</h4>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-
 <br><br>
-
 <h4>DevOps & Infrastructure</h4>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -110,9 +98,7 @@ Passionate about turning complex problems into production-grade, high-performanc
   <img src="https://img.shields.io/badge/ArgoCD-EF2B2D?style=for-the-badge&logo=argo&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
 <br>
-
 <h4>CI/CD Pipelines</h4>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -120,9 +106,7 @@ Passionate about turning complex problems into production-grade, high-performanc
   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
   <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArgoCD-EF2B2D?style=for-the-badge&logo=argo&logoColor=white"/>
-
 <br><br>
-
 <h4>AI / ML / GenAI</h4>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -133,9 +117,7 @@ Passionate about turning complex problems into production-grade, high-performanc
   <img src="https://img.shields.io/badge/FAISS-34C759?style=for-the-badge&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/CLIP-FF1493?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3D2E?style=for-the-badge&logo=opencv&logoColor=white"/>
-
 <br><br>
-
 <h4>Tools & Systems</h4>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -143,8 +125,6 @@ Passionate about turning complex problems into production-grade, high-performanc
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=python&logoColor=white"/>
-
-
 
 </div>
 
