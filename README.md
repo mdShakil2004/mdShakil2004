@@ -130,13 +130,22 @@ Passionate about turning complex problems into production-grade, high-performanc
 
 <br>
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdShakil2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdShakil2004&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdShakil2004&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="60%"/>
+</div>
 
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mdShakil2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+</div>
 
 <br>
 
