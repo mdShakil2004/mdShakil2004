@@ -22,8 +22,7 @@
 
 <img src="https://img.shields.io/github/followers/mdShakil2004?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="Followers"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=mdShakil2004&label=Profile%20Views&color=79C0FF&style=for-the-badge" alt="Profile Views"/>
-
+<img src="https://img.shields.io/badge/Profile%20Views-20.1K-79C0FF?style=for-the-badge" alt="Profile Views"/>
 <br><br>
 
 <i>Backend Engineering • Distributed Systems • AI/LLM Applications • Cloud-Native Infrastructure</i>
