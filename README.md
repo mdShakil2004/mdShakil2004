@@ -50,7 +50,7 @@ I design and build **scalable, intelligent systems** — focusing on **multimoda
 ```yaml
 daily_tools:   [Docker, Kubernetes, AWS, FastAPI, PyTorch, LangChain]
 deep_focus:    [RAG, Multimodal Models, AI Agents, Real-Time Streaming]
-achievements:  500+ DSA problems solved (GeeksforGeeks · HackerRank)
+achievements:  800+ DSA problems solved (GeeksforGeeks · HackerRank)
 open_to:       [Full-time SDE roles, Freelance, AI/ML Collaborations]
 ```
 
