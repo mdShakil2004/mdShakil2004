@@ -1,259 +1,179 @@
 <div align="center">
 
-# MD SHAKIL
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4500&pause=700&color=79C0FF&center=true&vCenter=true&width=560&lines=Hi+there!+I'm+Md+Shakil;Full-Stack+Engineer;Building+AI+%2F+ML+%26+LLM+Apps" alt="Typing SVG" />
 
-### Software Engineer · AI Systems · Full-Stack · Cloud
+<br>
 
-**Building production-grade software, AI applications, and scalable distributed systems.**
-
-<br/>
-
-<a href="https://md-shakil-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://md-shakil-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/👀_Explore_My_Portfolio-7B61FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/mdshakil2004/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+&nbsp;
+<a href="https://md-shakil-portfolio.vercel.app/#projects" target="_blank">
+  <img src="https://img.shields.io/badge/Featured_Projects-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects" height="40"/>
 </a>
-<a href="https://github.com/mdShakil2004">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+&nbsp;
+<a href="mailto:iam.shakil.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
 </a>
-<a href="mailto:shakil.genai@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+<br><br>
+
+<i>Engineering Multimodal AI • Real-Time Systems • LLM-Based Applications</i>
+<br>
+<i>Featured Work: Reva AI · LLM Project Store · Zyra AI News · and more</i>
+
+</div>
+
+<br>
+
+## 💫 About Me
+
+🚀 **AI Engineer × Full-Stack Architect × AI System Designer**
+🎓 **B.Tech CSE (AI/ML Specialization)** — 4th Year (2022–2026) @ [VGU, Jaipur](https://www.vgu.ac.in/) · NAAC A+ · UGC Approved
+
+I design and build **scalable, intelligent systems** — focusing on **multimodal AI**, **real-time inference**, **LLM-powered applications**, and **cloud-native architecture**. Passionate about turning complex problems into production-grade, high-performance solutions.
+
+- ⚙️ **Daily tools:** Docker · Kubernetes · AWS · FastAPI · PyTorch · LangChain
+- 🧠 **Deep focus:** RAG · Multimodal models · AI Agents · Real-time streaming
+- 🏆 **500+ DSA problems** solved — [GeeksforGeeks](https://www.geeksforgeeks.org/profile/shakilbhj47v?tab=activity) · [HackerRank](https://www.hackerrank.com/profile/mdshakil02042003?from=md_shakil_Resume)
+- 📫 **Open to:** Full-time SDE roles · Freelance work · AI/ML collaborations · Consultations
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:iam.shakil.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/mdshakil2004/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/mdShakil2004" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://md-shakil-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
 
----
+<br>
 
-## 👋 About
-
-I'm **MD Shakil**, a Software Engineer focused on building reliable, scalable software and AI-powered products.
-
-My work sits at the intersection of:
-
-* **Backend & distributed systems**
-* **Full-stack product engineering**
-* **AI / LLM applications**
-* **Cloud-native infrastructure**
-
-I enjoy taking a problem from **idea → architecture → implementation → deployment**, with a strong focus on performance, maintainability, and real-world usability.
-
-🎓 **B.Tech — Computer Science & Engineering** · 2022–2026
-🏆 **GATE DA/AI 2026 — AIR 527**
-🧩 **700+ Data Structures & Algorithms problems solved**
-
----
-
-## 🚀 What I Build
-
-### AI & Intelligent Systems
-
-LLM applications · RAG · Semantic Search · Vector Retrieval · NLP · AI Agents · Embeddings
-
-### Backend & Distributed Systems
-
-REST APIs · Microservices · Async Processing · WebSockets · Service Architecture · Authentication
-
-### Cloud & Infrastructure
-
-AWS · EKS · Docker · Kubernetes · Terraform · CI/CD · Redis · Observability
-
-### Full-Stack Applications
-
-React · React Native · TypeScript · JavaScript · Node.js · FastAPI · PostgreSQL
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,sql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,reactnative,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### Databases & Messaging
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas,opencv" />
-</p>
-
-**Also working with:**
-LLMs · RAG · LangChain · Sentence Transformers · Vector Embeddings · pgvector · Semantic Search · WebSockets · aiohttp
-
----
-
-## ⭐ Featured Projects
-
-### 🔎 Reva AI — Multi-Model Search Engine
-
-A real-time AI search system built around natural-language queries and semantic retrieval.
-
-**Stack:** FastAPI · PostgreSQL · Redis · WebSockets · Vector Search
-
-* Built asynchronous backend services for high-concurrency search workloads.
-* Implemented semantic retrieval using vector embeddings.
-* Developed low-latency streaming APIs using WebSockets and aiohttp.
-* Improved response time by **40%** and retrieval relevance by **90%**.
-
----
-
-### ☁️ LyVON — Cloud-Native Microservices Platform
-
-A distributed microservices platform deployed on AWS EKS.
-
-**Stack:** AWS EKS · Kubernetes · Docker · RabbitMQ · Redis · Terraform
-
-* Architected distributed microservices for scalable service execution.
-* Implemented asynchronous inter-service messaging with RabbitMQ.
-* Added Redis caching and asynchronous processing.
-* Reduced database load by **80–90%** and achieved **sub-50ms API response times**.
-* Added Prometheus/Grafana monitoring and automated CI/CD.
-
----
-
-### 📰 Zyra — AI-Powered News Platform
-
-A personalized content platform combining automated ingestion with semantic retrieval.
-
-**Stack:** React Native · FastAPI · PostgreSQL · SQLAlchemy · Sentence Transformers · pgvector
-
-* Built automated ingestion and preprocessing pipelines.
-* Implemented deduplication and content categorization.
-* Added semantic search and vector-based retrieval.
-* Built secure REST APIs with JWT authentication.
-* Added personalized content ranking and offline-first caching.
-
----
-
-### 🤖 LLM Project Store
-
-An open-source collection of production-oriented AI applications.
-
-**Focus:** RAG · LLMs · Multi-Agent Systems · Voice AI · AI Applications
-
-A collection built to explore practical AI engineering beyond simple API integrations — focusing on architectures, retrieval, orchestration, and usable applications.
-
----
-
-## 💼 Experience
-
-**Founder & Product Engineer — FirmGPT**
-*Jan 2026 – Present*
-
-Building an AI-powered workflow automation platform with:
-
-`React` · `Node.js` · `FastAPI` · `PostgreSQL` · `REST APIs` · `LLMs`
-
-**Full Stack Developer — Sprinto Technology**
-*Jun 2025 – Dec 2025*
-
-Worked on production backend services, REST APIs, microservices, authentication, testing, and enterprise workflows.
-
----
-
-## 📊 GitHub Activity
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdShakil2004&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+**Core Languages**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdShakil2004&layout=compact&hide_border=true&langs_count=8" height="170"/>
+<br><br>
+
+**Frontend & Mobile**
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<br><br>
+
+**Backend & APIs**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=openapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white"/>
+
+<br><br>
+
+**Databases, Cloud & Messaging**
+<br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+
+<br><br>
+
+**DevOps & Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF2B2D?style=for-the-badge&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<br><br>
+
+**CI/CD Pipelines**
+<br>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+<img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis&logoColor=white"/>
+
+<br><br>
+
+**AI / ML / GenAI**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-34C759?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLIP-FF1493?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3D2E?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<br><br>
+
+**Tools & Systems**
+<br>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
-<br/>
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mdShakil2004&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mdShakil2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdShakil2004&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdShakil2004&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="60%"/>
+
+<br>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=mdShakil2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 
 </div>
 
----
-
-## 🧠 Engineering Interests
-
-```text
-AI Systems
-├── LLM Applications
-├── RAG & Retrieval
-├── Semantic Search
-└── Agentic Systems
-
-Software Engineering
-├── Backend Architecture
-├── Distributed Systems
-├── Microservices
-└── API Design
-
-Cloud Engineering
-├── Kubernetes
-├── AWS
-├── CI/CD
-└── Observability
-
-Computer Science
-├── Data Structures & Algorithms
-├── Databases
-├── Computer Networks
-└── System Design
-```
+<br>
 
 ---
-
-## 🏆 Highlights
-
-* 🎓 B.Tech in Computer Science & Engineering — **CGPA 8.7/10**
-* 🏅 **GATE DA/AI 2026 — AIR 527**
-* 🧩 **700+ DSA problems solved**
-* 🥉 **Top 3 — Code Red 2.0 Coding Competition**
-* 🌍 Built and deployed cloud-native distributed systems
-* 🤖 Built AI applications involving RAG, semantic search, vector retrieval and LLMs
-* 🔓 Built an open-source LLM Project Store
-
----
-
-## 📫 Let's Connect
-
-I'm interested in opportunities involving:
-
-**Software Engineering · Backend Engineering · AI Engineering · Distributed Systems · Cloud Engineering**
-
-If you're building something technically interesting, feel free to reach out.
 
 <div align="center">
 
-### Build → Learn → Improve → Ship
-
-<br/>
-
-<a href="https://md-shakil-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore"/>
-</a>
+<i>Always learning, building, and shipping 🚀</i>
 
 </div>
