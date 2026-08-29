@@ -189,29 +189,6 @@ currently_exploring:
 
 ---
 
-## 🚀 Featured Engineering Work
-
-
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mdShakil2004&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdShakil2004&hide_border=true" alt="GitHub Streak" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdShakil2004&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" width="55%"/>
-
-</div>
-
-<br>
-
----
 
 ## 🏆 Highlights
 
@@ -228,28 +205,14 @@ currently_exploring:
 
 </div>
 
----
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdShakil2004&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
-<br>
-
----
+</a>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,50:2C5364,100:0F2027&height=150&section=footer" width="100%"/>
-
 ### Build. Learn. Improve. Ship. 🚀
 
 **Thanks for visiting my profile.**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,50:2C5364,100:0F2027&height=150&section=footer" width="100%"/>
 <a href="https://md-shakil-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
