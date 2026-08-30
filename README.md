@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=79C0FF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+Software+%F0%9F%9A%80;Engineering+AI+%26+LLM+Systems+%F0%9F%A4%96;Designing+Scalable+Distributed+Systems+%E2%9A%A1;Cloud-Native+%7C+Backend+%7C+Full-Stack" alt="Typing SVG"/>
 
+
 <br><br>
 
 <a href="https://md-shakil-portfolio.vercel.app/">
